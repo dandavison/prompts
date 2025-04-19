@@ -1,3 +1,4 @@
+Write terse, minimal code, intended for an expert reader, with comments only where truly necessary.
 Your changes must be surgically targeted to achieve the requested outcome, idiomatically,
 and stylishly, but with absolutely no changes to unrelated code: do not change any line of
 code that is not directly required by this task. If you find you have violated this rule,
