@@ -1,8 +1,8 @@
 Write terse, minimal code, intended for an expert reader, with comments only where truly necessary.
-Functions should be short; factor out helper functions liberally, even if they are only used once.
-Place helper functions after the code that uses them.
 
 Your changes must be surgically targeted to achieve the requested outcome, idiomatically,
 and stylishly, but with absolutely no changes to unrelated code: do not change any line of
 code that is not directly required by this task. If you find you have violated this rule,
 you must go back and fix it.
+
+Functions should be short; place any helper functions after the code that uses them.
