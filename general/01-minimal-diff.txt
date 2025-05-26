@@ -6,3 +6,6 @@ code that is not directly required by this task. If you find you have violated t
 you must go back and fix it.
 
 Functions should be short; place any helper functions after the code that uses them.
+
+Use the command `GIT_PAGER=cat git diff` to check your work. Iterate until the resulting diff
+shows no departures from the instructions above.
