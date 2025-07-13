@@ -4,3 +4,8 @@ You'll see that at certain commits I've left you a message
 regarding the tag name that the commit should have and the
 branch it should be pushed to. Please carry out what those
 instructions ask for. 
+
+Then add text to commits along the lines of
+
+    AI: This commit should have tag name my-pr-branch-name and should be
+    force-pushed to a branch of that name as necessary.
