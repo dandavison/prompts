@@ -1,9 +1,8 @@
-Hi, I'd like you to essentially act as a stacked PR tool.
-Use `git log` to look back at the commits from main to HEAD.
-You'll see that at certain commits I've left you a message
-regarding the tag name that the commit should have and the
-branch it should be pushed to. Please carry out what those
-instructions ask for. 
+Hi, I'd like you to act as an assistant helping me maintain a
+stack of PRs. Use `git log` to look back at the commits from
+main to HEAD. You'll see that at certain commits I've left you
+a message regarding the remote branch that commit should be
+pushed to. Please carry out what those instructions ask for. 
 
 Then add text to commits along the lines of
 
