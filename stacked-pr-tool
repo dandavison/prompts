@@ -7,5 +7,5 @@ instructions ask for.
 
 Then add text to commits along the lines of
 
-    AI: This commit should have tag name my-pr-branch-name and should be
-    force-pushed to a branch of that name as necessary.
+AI: This commit should always be force-pushed to a branch
+    on the remote named my-pr-branch-name.
